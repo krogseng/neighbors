@@ -3,4 +3,4 @@ node_js:
   - "iojs"
   - 7
   
-  before-script: chmod 0777 ./node_modules/.bin/mocha
+before-script: chmod 0777 ./node_modules/.bin/mocha
